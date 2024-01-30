@@ -1,0 +1,15 @@
+[submodule ".cron"]
+	path = .cron
+	url = git@github.com:thor314/.cron.git
+[submodule ".files"]
+	path = .files
+	url = git@github.com:thor314/.files.git
+[submodule ".keep"]
+	path = .keep
+	url = git@github.com:thor314/.keep.git
+[submodule ".private"]
+	path = .private
+	url = git@github.com:thor314/.private.git
+[submodule ".setup"]
+	path = .setup
+	url = git@github.com:thor314/.setup.git
