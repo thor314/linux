@@ -13,3 +13,6 @@
 [submodule ".setup"]
 	path = .setup
 	url = git@github.com:thor314/.setup.git
+[submodule "stumpwm"]
+	path = stumpwm
+	url = git@github.com:thor314/stumpwm.git
